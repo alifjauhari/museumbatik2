@@ -1,7 +1,5 @@
 <Language>
 	<UIGroup>
-		<Welcome>어서 오십시오</Welcome>
-		
 		<Connection>연결</Connection>
 		<Server>서버</Server>
 		<Host>호스트</Host>
@@ -9,14 +7,10 @@
 		<Port>포트</Port>
 		<Status>상태</Status>
 		<Path>경로</Path>
-		
-		<UserFeedback>사용자 피드백</UserFeedback>
-		<Donation>기부</Donation>
 
 		<Congratulation>축하</Congratulation>
 		<TryAgain>다시 시도</TryAgain>		
 		<Login>로그인</Login>
-		<Logout>로그 아웃</Logout>
 		<SignIn>로그인</SignIn>
 		<SignUp>가입</SignUp>
 		<Register>등록자</Register>
@@ -34,7 +28,6 @@
 		<User>사용자</User>
 		<Name>이름</Name>
 		<Username>사용자 이름</Username>
-		<Fullname>성명</Fullname>
 		<Player>플레이어</Player>
 		<Continue>계속하다</Continue>
 		<Score>점수</Score>
@@ -100,11 +93,6 @@
 		<Tips>팁</Tips>
 		<Hint>힌트</Hint>
 		<Puzzle>퍼즐</Puzzle>
-		
-		<ID>ID</ID>
-		<Email>이메일</Email>
-		<Password>암호</Password>
-		<Guest>손님</Guest>
 	</UIGroup>
 		
 	<MessageGroup>
@@ -127,7 +115,6 @@
 		<Error2>오류2</Error2>
 		<Error3>오류3</Error3>
 		<Search>검색...</Search>
-		<HighScoreText>최고가되기 위해 절대 포기하지 마십시오</HighScoreText>
 		<CharacterSelection>캐릭터 선택</CharacterSelection>
 		<CharacterSelectionInfo>당신의 성격을 선택하십시오</CharacterSelectionInfo>
 		<UserIdentification>사용자 식별</UserIdentification>
@@ -135,7 +122,6 @@
 		<LevelSelection>레벨 선택</LevelSelection>
 		<LevelSelectionInfo>게임을 할 준비가되었습니다?</LevelSelectionInfo>
 		<TypeHere>여기에 입력...</TypeHere>
-		<ForgotSend>사용자 이름 데이터가 이메일로 전송되었습니다. 필요한 경우 스팸 상자를 선택하십시오.</ForgotSend>
 	</MessageGroup>
 		
 	<LevelGroup>

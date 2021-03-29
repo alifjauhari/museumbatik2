@@ -242,10 +242,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 89927ef0843f0114a86f99fa8c582a5a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Server: 127.0.0.1
-  Database: mygame
-  UserID: root
-  Password: 
+  Server: localhost:3306
+  Database: u8171221_batik
+  UserID: u8171221
+  Password: 5GBhye$6yk
 --- !u!1 &95545242
 GameObject:
   m_ObjectHideFlags: 0

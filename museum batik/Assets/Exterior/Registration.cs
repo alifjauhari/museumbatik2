@@ -20,7 +20,7 @@ public class Registration : MonoBehaviour {
     WWWForm form = new WWWForm();
     form.AddField("name", nameField.text);
     form.AddField("password", passwordField.text);
-        WWW www = new WWW("http://localhost/try/register.php", form);
+        WWW www = new WWW("http://cubestudio.id/VR/batikdb/register.php", form);
         yield return www;
         if (www.text == "0")
         {

@@ -1,7 +1,5 @@
 <Language>
 	<UIGroup>
-		<Welcome>WELCOME</Welcome>
-		
 		<Connection>CONNECTION</Connection>
 		<Server>SERVER</Server>
 		<Host>HOST</Host>
@@ -9,9 +7,6 @@
 		<Port>PORT</Port>
 		<Status>STATUS</Status>
 		<Path>PATH</Path>
-		
-		<UserFeedback>USER FEEDBACK</UserFeedback>
-		<Donation>DONATION</Donation>
 	
 		<Congratulation>CONGRATULATION</Congratulation>
 		<TryAgain>TRY AGAIN</TryAgain>
@@ -35,7 +30,6 @@
 		<User>USER</User>
 		<Name>NAME</Name>
 		<Username>USERNAME</Username>
-		<Fullname>FULLNAME</Fullname>
 		<Player>PLAYER</Player>
 		<Continue>CONTINUE</Continue>
 		<Score>SCORE</Score>
@@ -102,11 +96,6 @@
 		<Tips>TIPS</Tips>
 		<Hint>HINT</Hint>
 		<Puzzle>PUZZLE</Puzzle>
-		
-		<ID>ID</ID>
-		<Email>EMAIL</Email>
-		<Password>PASSWORD</Password>
-		<Guest>GUEST</Guest>
 	</UIGroup>
 
 	<InformationGroup>
@@ -137,7 +126,6 @@
 		<Error2>This is Error2</Error2>
 		<Error3>This is Error3</Error3>
 		<Search>Search...</Search>
-		<HighScoreText>NEVER GIVE UP TO BE THE BEST</HighScoreText>
 		<CharacterSelection>CHARACTER SELECTION</CharacterSelection>
 		<CharacterSelectionInfo>CHOOSE YOUR CHARACTER</CharacterSelectionInfo>
 		<UserIdentification>USER IDENTIFICATION</UserIdentification>
@@ -145,7 +133,6 @@
 		<LevelSelection>LEVEL SELECTION</LevelSelection>
 		<LevelSelectionInfo>READY TO PLAY THE GAME?</LevelSelectionInfo>
 		<TypeHere>Type here...</TypeHere>
-		<ForgotSend>Username data has been send to your email. Check your SPAM box if necessary.</ForgotSend>
 	</MessageGroup>
 	
 	<LevelGroup>

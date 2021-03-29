@@ -1,7 +1,5 @@
 <Language>
 	<UIGroup>
-		<Welcome>欢迎</Welcome>
-		
 		<Connection>连接</Connection>
 		<Server>服务器</Server>
 		<Host>主机</Host>
@@ -9,14 +7,10 @@
 		<Port>端</Port>
 		<Status>状态</Status>
 		<Path>路径</Path>
-		
-		<UserFeedback>用户反馈</UserFeedback>
-		<Donation>捐款</Donation>
 
 		<Congratulation>恭喜</Congratulation>
 		<TryAgain>再次尝试</TryAgain>
 		<Login>登录</Login>
-		<Logout>登出</Logout>
 		<SignIn>登录</SignIn>
 		<SignUp>注册</SignUp>
 		<Register>注册</Register>
@@ -34,7 +28,6 @@
 		<User>用户</User>
 		<Name>名称</Name>
 		<Username>用户名</Username>
-		<Fullname>全名</Fullname>
 		<Player>播放器</Player>
 		<Continue>继续</Continue>
 		<Score>得分</Score>
@@ -101,11 +94,6 @@
 		<Tips>提示</Tips>
 		<Tips>提示</Tips>
 		<Puzzle>拼图</Puzzle>
-		
-		<ID>ID</ID>
-		<Email>电子邮件</Email>
-		<Password>密碼</Password>
-		<Guest>來賓</Guest>
 	</UIGroup>
 	
 	<MessageGroup>
@@ -127,7 +115,6 @@
 		<Error2>这是2</Error2>
 		<Error3>这是3</Error3>
 		<Search>搜索...</Search>
-		<HighScoreText>永远不要成为最好的</HighScoreText>
 		<CharacterSelection>角色选择</CharacterSelection>
 		<CharacterSelectionInfo>选择你的角色</CharacterSelectionInfo>
 		<UserIdentification>用户标识</UserIdentification>
@@ -135,7 +122,6 @@
 		<LevelSelection>级别选择</LevelSelection>
 		<LevelSelectionInfo>准备玩游戏?</LevelSelectionInfo>
 		<TypeHere>在此输入...</TypeHere>
-		<ForgotSend>用户名数据已发送到您的电子邮件. 如有必要，请选中您的垃圾邮件框.</ForgotSend>
 	</MessageGroup>
 		
 	<LevelGroup>

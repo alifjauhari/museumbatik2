@@ -13,7 +13,7 @@ public class game : MonoBehaviour
     {
         if (DBManager.playername == null)
         {
-            SceneManager.LoadScene(0);
+            SceneManager.LoadScene(1);
         }
         playerDisplay.text = "Player: " + DBManager.playername;
         scoreDisplay.text = "Score: " + DBManager.highscore;
@@ -30,7 +30,7 @@ public class game : MonoBehaviour
         form.AddField("name", DBManager.playername);
         form.AddField("score", DBManager.highscore);
 
-        WWW www = new WWW("http://localhost/try/savedata.php", form);
+        WWW www = new WWW("http://cubestudio.id/VR/batikdb/savedata.php", form);
         yield return www;
         if (www.text == "0")
         {
@@ -42,14 +42,14 @@ public class game : MonoBehaviour
         }
 
         DBManager.LogOut();
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(1);
     }
 
 
     //u can use this void if you dont want log out but wanna exit the game (it wasnt used automatically)
     public void GoToMenu()
     {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(1);
     }
 
     public void IncreaseScore()

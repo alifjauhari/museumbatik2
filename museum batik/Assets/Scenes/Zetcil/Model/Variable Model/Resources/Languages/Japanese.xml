@@ -1,7 +1,5 @@
 <Language>
 	<UIGroup>
-		<Welcome>ようこそ</Welcome>
-	
 		<Connection>接続</Connection>
 		<Server>サーバー</Server>
 		<Host>ホスト</Host>
@@ -10,13 +8,9 @@
 		<Status>ステータス</Status>
 		<Path>パス</Path>
 		
-		<UserFeedback>ユーザーフィードバック</UserFeedback>
-		<Donation>寄付</Donation>
-		
 		<Congratulation>おめでとうございます</Congratulation>
 		<TryAgain>もう一度試す</TryAgain>
 		<Login>ログインする</Login>
-		<Logout>ログアウト</Logout>
 		<SignIn>サインイン</SignIn>
 		<SignUp>サインアップ</SignUp>
 		<Register>登録</Register>
@@ -34,7 +28,6 @@
 		<User>ユーザー</User>
 		<Name>名前</Name>
 		<Username>ユーザー名</Username>
-		<Fullname>フルネーム</Fullname>
 		<Player>プレーヤー</Player>		
 		<Continue>続ける</Continue>
 		<Score>スコア</Score>
@@ -100,11 +93,6 @@
 		<Tips>ヒント</Tips>
 		<Hint>ヒント</Hint>
 		<Puzzle>パズル</Puzzle>
-		
-		<ID>ID</ID>
-		<Email>Eメール</Email>
-		<Password>パスワード</Password>
-		<Guest>ゲスト</Guest>
 	</UIGroup>
 	
 	<MessageGroup>	
@@ -127,7 +115,6 @@
 		<Error2>これはエラー2です</Error2>
 		<Error3>これはエラー3です</Error3>
 		<Search>探す...</Search>
-		<HighScoreText>最高になることを決してあきらめないでください</HighScoreText>
 		<CharacterSelection>キャラクターセレクション</CharacterSelection>
 		<CharacterSelectionInfo>あなたのキャラクターを選択してください</CharacterSelectionInfo>
 		<UserIdentification>ユーザーの識別</UserIdentification>
@@ -135,7 +122,6 @@
 		<LevelSelection>レベルの選択</LevelSelection>
 		<LevelSelectionInfo>ゲームをプレイする準備ができました?</LevelSelectionInfo>
 		<TypeHere>ここに入力...</TypeHere>
-		<ForgotSend>ユーザー名データがメールに送信されました. 必要に応じてスパムボックスをチェックしてください.</ForgotSend>
 	</MessageGroup>	
 		
 	<LevelGroup>

@@ -7,7 +7,7 @@ public class webtest : MonoBehaviour
     // Start is called before the first frame update
     IEnumerator Start()
     {
-        WWW request = new WWW("http://localhost/faa/webtest.php");
+        WWW request = new WWW("http://cubestudio.id/VR/batikdb/webtest.php");
         yield return request;
         string[] webResults = request.text.Split('\t');
         Debug.Log(webResults[0]);

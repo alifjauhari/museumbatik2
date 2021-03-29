@@ -1,7 +1,5 @@
 <Language>
 	<UIGroup>
-		<Welcome>SELAMAT DATANG</Welcome>
-	
 		<Connection>KONEKSI</Connection>
 		<Server>SERVER</Server>
 		<Host>HOST</Host>
@@ -9,9 +7,6 @@
 		<Port>PORT</Port>
 		<Status>STATUS</Status>
 		<Path>PATH</Path>
-		
-		<UserFeedback>UMPAN BALIK</UserFeedback>
-		<Donation>DONASI</Donation>
 
 		<Congratulation>SELAMAT</Congratulation>
 		<TryAgain>COBA LAGI</TryAgain>
@@ -35,7 +30,6 @@
 		<User>PENGGUNA</User>
 		<Name>NAMA</Name>
 		<Username>NAMA PENGGUNA</Username>
-		<Fullname>NAMA LENGKAP</Fullname>
 		<Player>PEMAIN</Player>
 		<Continue>LANJUTKAN</Continue>
 		<Score>NILAI</Score>
@@ -102,11 +96,6 @@
 		<Tips>TIPS</Tips>
 		<Hint>HINT</Hint>
 		<Puzzle>PUZZLE</Puzzle>
-
-		<ID>ID</ID>
-		<Email>SUREL</Email>
-		<Password>KATA SANDI</Password>
-		<Guest>TAMU</Guest>
     </UIGroup>
 	
 	<InformationGroup>
@@ -137,7 +126,6 @@
 		<Error2>Ini adalah kesalahan 2</Error2>
 		<Error3>Ini adalah kesalahan 3</Error3>
 		<Search>Cari...</Search>
-		<HighScoreText>JANGAN PERNAH MENYERAH MENJADI YANG TERBAIK</HighScoreText>
 		<CharacterSelection>DAFTAR KARAKTER</CharacterSelection>
 		<CharacterSelectionInfo>PILIH KARAKTER KAMU</CharacterSelectionInfo>
 		<UserIdentification>IDENTIFIKASI USER</UserIdentification>
@@ -145,7 +133,6 @@
 		<LevelSelection>DAFTAR LEVEL</LevelSelection>
 		<LevelSelectionInfo>PILIH LEVEL YANG AKAN KAMU MAINKAN</LevelSelectionInfo>
 		<TypeHere>Ketik di sini...</TypeHere>
-		<ForgotSend>Data username telah dikirimkan ke email Anda. Periksa kotak SPAM Anda jika diperlukan.</ForgotSend>
 	</MessageGroup>
 	
 	<LevelGroup>
