@@ -6,26 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-<<<<<<< Updated upstream
-    path: Assets/Scenes/SampleScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
-=======
     path: Assets/Exterior/Scenes/Exterior.unity
     guid: 809b8883ffba9bd4fa4b500d1a82bd84
   - enabled: 1
-    path: Assets/Exterior/Scenes/MainMenu.unity
-    guid: 33f775b159da8e44e8bddbb9b073df62
+    path: Assets/loginsistem.unity
+    guid: 72a9c9b266896ba4780757a6538ba96e
   - enabled: 1
-    path: Assets/Exterior/Scenes/RegisterMenu.unity
-    guid: 48f6c9f51461eab49b3557ed7ace0bae
-  - enabled: 1
-    path: Assets/Exterior/Scenes/LoginMenu.unity
-    guid: 3a3ab46333e081c4c81cd75d8559875b
-  - enabled: 1
-    path: Assets/Exterior/Scenes/game.unity
-    guid: 878ce00e0d0af224b83ef34c1b743f7b
-  - enabled: 1
-    path: Assets/Exterior/Scenes/SampleScene (2).unity
-    guid: a0e7f263fd0ab234a9e0374222ae6699
->>>>>>> Stashed changes
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}
