@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Exterior/Scenes/Exterior.unity
     guid: 809b8883ffba9bd4fa4b500d1a82bd84
   - enabled: 1
-    path: Assets/loginsistem.unity
+    path: Assets/Exterior/Scenes/loginsistem.unity
     guid: 72a9c9b266896ba4780757a6538ba96e
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
